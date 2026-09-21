@@ -1,8 +1,10 @@
 # Frontier vs Delta — recovery after a cancellation, from US DOT data
 
-Small, reproducible study behind a public post about what happens to a passenger *after* an
-airline cancels a flight. It asks one question the usual "cancellation rate" statistic cannot
-answer: **when this carrier cancels, is there anything left that day on your route?**
+Small, reproducible study behind
+[a LinkedIn post](https://www.linkedin.com/posts/reshetnik_frontier-delta-activity-7507864137826230273-dQLa)
+about what happens to a passenger *after* an airline cancels a flight. It asks one question
+the usual "cancellation rate" statistic cannot answer: **when this carrier cancels, is there
+anything left that day on your route?**
 
 ## Data
 
